@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaishakhwastaken
+- 👋 Hi, I’m Vaishakh V S
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning B Tech CSE
 - 💞️ I’m looking to collaborate on anything from designing to programming and electronics to coding.
