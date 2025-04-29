@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm Vaishakh</h1>
-<h3 align="center">🚀 Passionate CSE Student | Backend Dev | Future AI Creator</h3>
+<h3 align="center">🚀 Passionate CSE Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Python%20%7C%20Node.js%20Enthusiast;Building%20AI%20Projects;Lifelong%20Learner&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaishakhwastaken&label=Profile%20views&color=0e75b6&style=flat" alt="vaishakhwastaken" />
-</p>
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on **a project involving Django + AI**
-- 🌱 I’m currently learning **Prompt Engineering and Advanced Backend**
-- 👯 I’m looking to collaborate on **open-source AI tools**
-- 💬 Ask me about **Python, APIs, GitHub automation**
-- 📫 Reach me at **vaishakhvs05@gmail.com**
+- 🔭 I’m currently working on **Creating and redesigning a website**
+- 🌱 I’m currently learning **Next.js**
+- 👯 I’m looking to collaborate on **anything new fresh and ambitious**
+- 💬 Ask me about **Tech**
+- 📫 Reach me at **vaishakhvs2004@gmail.com**
 - ⚡ Fun fact: **I debug my thoughts like I debug code**
 
 ---
@@ -41,12 +38,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=vaishakhwastaken&theme=darkhub&row=1&column=7" alt="vaishakhwastaken" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
