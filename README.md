@@ -41,8 +41,8 @@
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://twitter.com/vaishakhvs05" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40"/></a>
+<ul>
+  <li><a href="https://twitter.com/vaishakhvs05" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40"/></a></li>
   &nbsp;
-  <a href="https://linkedin.com/in/vaishakh-v-s" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a>
-</p>
+  <li><a href="https://linkedin.com/in/vaishakh-v-s" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a></li>
+<ul>
