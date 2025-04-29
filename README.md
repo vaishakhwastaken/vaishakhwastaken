@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishakh</h1>
-<h3 align="center">🚀 Passionate CSE Student</h3>
+<h3 align="center">🚀 Emerging Coder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Python%20%7C%20Node.js%20Enthusiast;Building%20AI%20Projects;Lifelong%20Learner&center=true&width=500&height=45">
@@ -41,7 +41,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://twitter.com/vaishakhvs05" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/vaishakh-v-s" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a>
