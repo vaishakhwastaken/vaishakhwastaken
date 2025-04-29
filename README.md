@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishakh</h1>
 <h3 align="center">🚀 Emerging Coder</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Python%20%7C%20Node.js%20Enthusiast;Building%20AI%20Projects;Lifelong%20Learner&center=true&width=500&height=45">
-</p>
-
 
 ---
 
@@ -23,8 +19,6 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
@@ -41,7 +35,7 @@
 
 ## 🌐 Connect With Me
 
-<ul>
+<ul style="list-style-type: none;">
   <li><a href="https://twitter.com/vaishakhvs05" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40"/></a></li>
   &nbsp;
   <li><a href="https://linkedin.com/in/vaishakh-v-s" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a></li>
