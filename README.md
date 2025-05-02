@@ -32,7 +32,7 @@
 ---
 
 
-## 🌐 Connect With me
+## 🌐 Connect With Me
 
 <ul style="list-style-type: none;">
   <li><a href="https://twitter.com/vaishakhvs05" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40"/></a></li>
