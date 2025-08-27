@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishakh</h1>
-<h3 align="center">🚀 Emerging Coder</h3>
+<h3 align="center">🚀 Curious Human Being</h3>
 
 
 ---
@@ -26,7 +26,6 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaishakhwastaken&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaishakhwastaken&theme=radical" width="47%" />
 </p>
 
 ---
