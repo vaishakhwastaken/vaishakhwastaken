@@ -5,12 +5,12 @@
 ---
 
 
-- 🔭 I’m currently working on **Creating and redesigning a website**
-- 🌱 I’m currently learning **Next.js**
-- 👯 I’m looking to collaborate on **anything new fresh and ambitious**
-- 💬 Ask me about **Tech**
+- 🔭 I’m currently working on **Rebranding a club**
+- 🌱 I’m currently learning **FastApi**
+- 👯 I’m looking to collaborate on **projects that require FastApi**
+- 💬 Ask me about **Anything**
 - 📫 Reach me at **vaishakhvs2004@gmail.com**
-- ⚡ Fun fact: **I debug my thoughts like I debug code**
+- ⚡ Fun fact: **Sometimes all you need to do is be present right place at the right time**
 
 ---
 
